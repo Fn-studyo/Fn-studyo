@@ -26,7 +26,7 @@ const david = {
         },
         backEnd: {
             js: ["node", "express", "nestjs", "adonisjs"],
-            php: ["laravel"]
+            php: ["laravel" "slimPHP"]
         },
         databases: ["mongo", "MySql", "firestore"],
         misc: ["Firebase", "Socket.IO", "sentry", "Medium"]
