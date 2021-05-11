@@ -12,7 +12,7 @@
 ### <img src="https://avatars.githubusercontent.com/u/54484130?v=4" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const david = {
     pronouns: "He" | "Him | 🤡",
     code: ["Javascript", "Typescript", "PHP", "Dart"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "Yoruba boy🤡"],
