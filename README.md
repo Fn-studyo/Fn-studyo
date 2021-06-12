@@ -14,8 +14,9 @@
 ```javascript
 const david = {
     pronouns: "He" | "Him | 🤡",
+    age: 16,
     code: ["Javascript", "Typescript", "PHP", "Dart"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "Yoruba boy🤡"],
+    askMeAbout: ["backend dev", "tech", "app dev", "music", "Yoruba boy🤡"],
     technologies: {
         mobileApp: {
 	        tech : ["Flutter", "Apache Cordova"]
