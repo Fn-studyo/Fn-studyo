@@ -34,7 +34,7 @@ const david = {
     },
     architecture: ["Microservices","Serverless Architecture", "Single page applications"],
     currentProject: "I am currently working on a fintech application",
-    funFact: "The first programmer in the world was a woman. Her name was [Ada Lovelace] and she worked on an analytical engine back in the 1,800’s."
+    funFact: "The first programmer in the world was a woman. Her name was [Ada Lovelace] and she worked on an analytical engine back in the 1800’s."
 };
 ```
 
