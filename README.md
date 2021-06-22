@@ -52,6 +52,10 @@ const david = {
 
 ```
 
+**🎧 Currently vibing to**
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gukst5vjfh3bl27ubgbfafn6h&count=5)](https://open.spotify.com/user/gukst5vjfh3bl27ubgbfafn6h)
+
 
 📊 **This week I spent my time on** 
 
