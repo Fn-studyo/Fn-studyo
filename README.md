@@ -15,6 +15,7 @@
 const david = {
     pronouns: "He" | "Him | 🤡",
     age: 16,
+    religion: "christain",
     code: ["Javascript", "Typescript", "PHP", "Dart"],
     askMeAbout: ["backend dev", "tech", "app dev", "music", "Yoruba boy🤡"],
     technologies: {
