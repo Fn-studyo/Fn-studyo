@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Freelancing, Open Source, StartUps, Fintech, CryptoCurrencies 
+- 💬 Talk to me about Freelancing, Open Source, StartUps, Fintech, CryptoCurrency
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
@@ -44,13 +44,6 @@
 <a href = 'https://www.github.com/Fn-studyo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
-
-
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -64,4 +57,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
-**🎧 Currently vibing to** [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gukst5vjfh3bl27ubgbfafn6h&count=5)](https://open.spotify.com/user/gukst5vjfh3bl27ubgbfafn6h)
+<h2>Currently vibing to..</h2>
+  
+ [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gukst5vjfh3bl27ubgbfafn6h&count=5)](https://open.spotify.com/user/gukst5vjfh3bl27ubgbfafn6h)
