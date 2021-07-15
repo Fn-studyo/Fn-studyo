@@ -1,86 +1,67 @@
+<div align="center">
+<img width="50%" height = "250px" src="" alt="cover" />
+</div>
 
-<h2># Bàwọ̀ ni🙏🏻, I'm Muritala David Ilerioluwa! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/4KkSbPnZ5Skec/giphy.gif" width="230">
-<p><em>Backend Engineer at <a href="http://www.kolosave.app">Kolo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/pipe_dev?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/muritala-david-ab8019189?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/muritala-david-ab8019189/)
-![GitHub followers](https://img.shields.io/github/followers/Fn-studyo?label=Follow&style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Fn-studyo.Fn-studyo)
 
+</p>
+<div size='20px'> Hi! My name is Muritala David Ilerioluwa. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-### <img src="https://avatars.githubusercontent.com/u/54484130?v=4" width="50"> A little more about me...  
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-```javascript
-const david = {
-    pronouns: "He" | "Him | 🤡",
-    age: 16,
-    religion: "christain",
-    code: ["Javascript", "Typescript", "PHP", "Dart"],
-    askMeAbout: ["backend dev", "tech", "app dev", "music", "Yoruba boy🤡"],
-    technologies: {
-        mobileApp: {
-	        tech : ["Flutter", "Apache Cordova"]
-        },
-        frontEnd: {
-            js: ["Vue"],
-            css: ["bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "nestjs", "adonisjs"],
-            php: ["laravel" "slimPHP"]
-        },
-        databases: ["mongo", "MySql", "firestore"],
-        misc: ["Firebase", "Socket.IO", "sentry", "Medium"]
-    },
-    architecture: ["Microservices","Serverless Architecture", "Single page applications"],
-    currentProject: "I am currently working on a fintech application",
-    funFact: "The first programmer in the world was a woman. Her name was [Ada Lovelace] and she worked on an analytical engine back in the 1800’s."
-};
-```
-
-<img src="https://media.giphy.com/media/M8o1MOwcwsWOmueqN4/giphy.gif" width="60"> <b>I just love to code thats all</b> Just find me gigs abeg 😂😂😂✌!</em>
-
----
-<!--START_SECTION:waka-->
-**Probably the time I spend slapping the keyboard 🐤** 
-
-```text
-🌞 Morning       ███████░░░░░░░░░░░░░░░░░░   3 hours
-🌆 Afternoon     ████████████░░░░░░░░░░░░░   6 hours
-🌃 Evening       ██████░░░░░░░░░░░░░░░░░░░   2 hours
-🌙 Night         ██████████░░░░░░░░░░░░░░░   5 hours
-
-```
-
-**🎧 Currently vibing to**
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gukst5vjfh3bl27ubgbfafn6h&count=5)](https://open.spotify.com/user/gukst5vjfh3bl27ubgbfafn6h)
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-📊 **This week I spent my time on** 
+- 🔭 I’m currently working on Kolo and other stuffs
 
-```text
-⌚︎ Timezone: Lagos/Nigeria
+- 🌱 I’m currently learning Blockchain Development 
 
-💬 Languages: 
-JavaScript               Most of the time       █████████████████████░░░░   
-PHP                      Projects/Work          ████████████░░░░░░░░░░░░░   
-Dart                     Once inna while        ███░░░░░░░░░░░░░░░░░░░░░░   
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
 
+- 💬 Talk to me about Freelancing, Open Source, StartUps, Fintech, CryptoCurrencies 
 
-🔥 Editors: 
-Visual Studio Code      9 hrs 42 mins       ███████████░░░░░░░░░░░░░░   55.45% 
-WebStorm                 8 hrs 1 mins       █████████░░░░░░░░░░░░░░░░   44.55% 
-
-
-💻 Operating Systems: 
-Windows                  17 hrs 52 mins      █████████████████████████   100.0%
-
-```
-
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
+<a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/muritala-david-ab8019189'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/rahulbanerjee99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'muritaladavid.herokuapp.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/Fn-studyo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-⭐️ From [@pipe_dev](https://github.com/Fn-studyo)
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+</a>
+<br>
+
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Fn-studyo&count_private=true&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fn-studyo&theme=default" />
+</a>
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+
+**🎧 Currently vibing to** [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gukst5vjfh3bl27ubgbfafn6h&count=5)](https://open.spotify.com/user/gukst5vjfh3bl27ubgbfafn6h)
