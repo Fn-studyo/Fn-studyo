@@ -20,6 +20,8 @@
 
 - 💬 Talk to me about Freelancing, Open Source, StartUps, Fintech, CryptoCurrency
 
+[![wakatime](https://wakatime.com/badge/user/1d5c2688-f871-4f15-b2fc-485297bba69a.svg)](https://wakatime.com/@1d5c2688-f871-4f15-b2fc-485297bba69a)
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 <a href= https://github.com/Fn-studyo?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
